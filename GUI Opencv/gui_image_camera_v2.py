@@ -1,5 +1,4 @@
-# make structure program more good
-# without thread learn from online code sugoi
+# Update make structure program more good
 # Feature use start/stop show camera image, configuration port with save file can, 
 # No yet can check a valid port
 
