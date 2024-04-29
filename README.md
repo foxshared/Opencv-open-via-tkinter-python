@@ -5,3 +5,5 @@ The opencv image is show inside the tkinter GUI
 ** Need to install PIL library.
 ** Automatic select valid port for image camera.
 ** Auto select current file working environment.
+
+** Code already improve but got missing
